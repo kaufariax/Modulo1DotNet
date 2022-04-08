@@ -1,0 +1,16 @@
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.csproj.AssemblyReference.cache
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.AssemblyInfoInputs.cache
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.AssemblyInfo.cs
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\List8Ex\List8Ex\bin\Debug\net5.0\List8Ex.exe
+C:\Users\User\Documents\List8Ex\List8Ex\bin\Debug\net5.0\List8Ex.deps.json
+C:\Users\User\Documents\List8Ex\List8Ex\bin\Debug\net5.0\List8Ex.runtimeconfig.json
+C:\Users\User\Documents\List8Ex\List8Ex\bin\Debug\net5.0\List8Ex.runtimeconfig.dev.json
+C:\Users\User\Documents\List8Ex\List8Ex\bin\Debug\net5.0\List8Ex.dll
+C:\Users\User\Documents\List8Ex\List8Ex\bin\Debug\net5.0\List8Ex.pdb
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.dll
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\refint\List8Ex.dll
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.pdb
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\List8Ex.genruntimeconfig.cache
+C:\Users\User\Documents\List8Ex\List8Ex\obj\Debug\net5.0\ref\List8Ex.dll
