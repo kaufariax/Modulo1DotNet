@@ -20,7 +20,7 @@ namespace Lista3CS
             altura = float.Parse(Console.ReadLine());
 
             Console.WriteLine("insira seu peso: ");
-            peso = Convert.ToInt32(Console.ReadLine());
+            peso = float.Parse(Console.ReadLine());
 
             imc = peso / (altura * altura);
 

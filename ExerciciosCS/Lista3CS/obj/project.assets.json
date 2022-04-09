@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\ExerciciosCS\\Lista3CS\\Lista3CS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Lista3CS\\Lista3CS.csproj",
       "projectName": "Lista3CS",
-      "projectPath": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\ExerciciosCS\\Lista3CS\\Lista3CS.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Lista3CS\\Lista3CS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\ExerciciosCS\\Lista3CS\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Lista3CS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
