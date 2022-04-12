@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\CURSO GEN . NET\\AULA6VS\\AULA6VS.csproj": {}
+    "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Aula6CS2\\AULA6VS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\CURSO GEN . NET\\AULA6VS\\AULA6VS.csproj": {
+    "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Aula6CS2\\AULA6VS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\AULA6VS\\AULA6VS.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Aula6CS2\\AULA6VS.csproj",
         "projectName": "AULA6VS",
-        "projectPath": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\AULA6VS\\AULA6VS.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Aula6CS2\\AULA6VS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\AULA6VS\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\Aula6CS2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

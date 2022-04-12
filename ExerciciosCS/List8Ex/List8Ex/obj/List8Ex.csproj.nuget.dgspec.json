@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\List8Ex\\List8Ex\\List8Ex.csproj": {}
+    "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\List8Ex\\List8Ex\\List8Ex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\List8Ex\\List8Ex\\List8Ex.csproj": {
+    "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\List8Ex\\List8Ex\\List8Ex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\List8Ex\\List8Ex\\List8Ex.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\List8Ex\\List8Ex\\List8Ex.csproj",
         "projectName": "List8Ex",
-        "projectPath": "C:\\Users\\User\\Documents\\List8Ex\\List8Ex\\List8Ex.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\List8Ex\\List8Ex\\List8Ex.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\List8Ex\\List8Ex\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\List8Ex\\List8Ex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

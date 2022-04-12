@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\ExerciciosCS\\Tabuada6VS\\Tabuada6VS\\Tabuada6VS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\TabuadaCS\\Tabuada6VS\\Tabuada6VS.csproj",
       "projectName": "Tabuada6VS",
-      "projectPath": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\ExerciciosCS\\Tabuada6VS\\Tabuada6VS\\Tabuada6VS.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\TabuadaCS\\Tabuada6VS\\Tabuada6VS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\CURSO GEN . NET\\ExerciciosCS\\Tabuada6VS\\Tabuada6VS\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ExerciciosCS\\TabuadaCS\\Tabuada6VS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
