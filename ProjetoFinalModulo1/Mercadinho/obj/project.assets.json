@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\erick\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\ProjetoFinal\\Mercadinho\\Mercadinho.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ProjetoFinalModulo1\\Mercadinho\\Mercadinho.csproj",
       "projectName": "Mercadinho",
-      "projectPath": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\ProjetoFinal\\Mercadinho\\Mercadinho.csproj",
-      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\ProjetoFinal\\Mercadinho\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ProjetoFinalModulo1\\Mercadinho\\Mercadinho.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GITHUB\\Modulo1DotNet\\ProjetoFinalModulo1\\Mercadinho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

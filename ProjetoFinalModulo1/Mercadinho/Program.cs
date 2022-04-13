@@ -46,7 +46,7 @@ namespace Mercadinho
                 }
             }
             Calc resultado = new Calc();
-            Console.WriteLine($"O valor da sua compra é: R${aux}");
+            Console.WriteLine($"O valor da sua compra é: R${Math.Round(aux,2)}");
         }
     }
 }
